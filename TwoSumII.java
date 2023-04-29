@@ -3,6 +3,7 @@
  * https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
  */
 // Since input array is sorted, two pointer approach is used
+
 public class TwoSumII {
     public int[] twoSum(int[] numbers, int target) {
         int res[] = new int[2];
